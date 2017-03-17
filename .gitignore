@@ -1,0 +1,9 @@
+######################
+# Eclipse
+######################
+
+# Maven
+log/
+/bin/
+
+Mydistance.log
